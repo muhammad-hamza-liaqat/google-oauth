@@ -1,0 +1,6 @@
+Django==5.1
+djangorestframework
+djangorestframework-simplejwt
+google-auth
+python-dotenv
+requests
